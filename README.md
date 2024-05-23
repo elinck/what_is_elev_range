@@ -6,5 +6,5 @@ repo for Linck *in prep*.
 
 `01_figures.pdf`: knit pdf of the above notebook   
 
-`data/`: raw eBird data and GMBA shapefile required for analyses and 
-figures  
+`data/`: processed eBird data (raw data and GMBA shapefiles too big for 
+repository)  
